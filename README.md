@@ -1,5 +1,6 @@
 Sistem Informasi Rekrutmen Satpam adalah sebuah aplikasi atau platform digital yang digunakan untuk mengelola proses perekrutan satpam (security guard) secara lebih efisien dan terorganisir. 
 Sistem ini dapat mencakup berbagai fitur seperti:
+
 1.Pendaftaran Online – Calon satpam dapat mengisi formulir pendaftaran secara daring.
 2.Manajemen Data Pelamar – Menyimpan dan mengelola data pelamar, termasuk riwayat pendidikan, pengalaman kerja, dan sertifikasi.
 3.Seleksi dan Ujian – Proses seleksi, termasuk tes tertulis, wawancara, dan uji fisik, dapat diatur dan dipantau dalam sistem.
